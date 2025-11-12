@@ -1,16 +1,10 @@
 # flutter_application_1
 
-A new Flutter project.
+My first Flutter project
 
-## Getting Started
+This application shows a list of exams, the time and date at which they are held, and the room number. 
+It also calculates the time remaining till the exam, and you can see if the exam is already done.
 
-This project is a starting point for a Flutter application.
+## Video and Photo
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A photo and a video,  demonstrating the application, are in the screenshots folder.
